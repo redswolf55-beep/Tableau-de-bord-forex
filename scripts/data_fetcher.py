@@ -1,3 +1,4 @@
+"""
 Module d'acquisition de données Forex et calcul des indicateurs techniques.
 Utilise yfinance pour récupérer les données historiques des paires de devises.
 """
