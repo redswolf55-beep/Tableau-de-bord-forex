@@ -316,4 +316,5 @@ else:
 st.divider()
 st.markdown("""
 ---
-**Tableau de Bord d'Analyse Technique Forex**
+**Tableau de Bord d'Analyse Technique Forex** | Données fournies par Yahoo Finance | Mise à jour : 2025
+""")
